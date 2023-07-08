@@ -1,0 +1,101 @@
+.logo1{
+    position: relative;
+    height: 130px;
+    width: 408px;
+    top: 35px;
+    left: 516px;
+}
+.linha{
+    position: absolute;
+    width: 1647px;
+    height: 4px;
+    left: 131px;
+    top: 176px;
+    background: #5AE368;
+    border-radius: 24px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.letras{
+    text-decoration: none;
+    position: relative;
+    color: #000;
+    font-family: Inter;
+    font-style: italic;
+    font-weight: 200;
+    line-height: 117.523%;
+}
+
+.cesta_de_compras{
+    position: relative;
+    width: 48px;
+    height: 49px;
+    top: 1px;
+    left: 229px;
+}
+
+.botao_de_inicio{
+    position: relative;
+    width: 48px;
+    height: 49px;
+    top: 1px;
+    left: 175px;
+}
+
+.perfil{
+    position: relative;
+    width: 48px;
+    height: 49px;
+    top: 1px;
+    left: 888px;
+}
+
+.quadrado{
+    align-items: center;
+    position: relative;
+    width: 390px;
+    height: 375px;
+    display: flex;
+    text-decoration: none;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.77);
+    box-shadow: 16px 10px 39px 5px rgba(0, 0, 0, 0.25);
+}
+
+.pratos-pers{
+    position: relative;
+    height: 233px;
+    width: 240px;
+    top: -60px;
+    left: 76px;
+}
+
+.pratos-pront{
+    position: relative;
+    height: 229px;
+    width: 300px;
+    top: -60px;
+    left: 39px;
+}
+
+.sucos{
+    position: relative;
+    height: 229px;
+    width: 300px;
+    top: -51px;
+    left: 70px;
+}
+
+.letras-prods{
+    position: relative;
+    display: flex;
+    width: 358px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #5AE368;
+    font-size: 25px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 117.523%;
+    text-transform: uppercase;  
+}

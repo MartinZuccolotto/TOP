@@ -1,0 +1,109 @@
+body {
+    color: #000;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: italic;
+    line-height: 117.523%;
+}
+
+#logo {
+    width: 200px;
+    height: 70px;
+    margin: auto;
+    display: block;
+    padding-top: 6px;
+    
+}
+
+#inicio {
+    position: absolute;
+    padding-left: 30px;
+    top: 35px;
+
+    text-decoration: none;
+    color: #000;
+}
+
+#inicio:visited {
+    color: #37BD45;
+}
+
+hr {
+    border-color: #37BD45;
+}
+
+#meus-dados {
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.img {
+    width: 13px;
+}
+
+#img1 {
+    margin-right: -29px;
+    left: 227px;
+    position: relative;
+    bottom: 61px;
+}
+
+#img2 {
+    left: 227px;
+    position: relative;
+    bottom: 32px;
+}
+
+p{
+    padding: 0px;
+    margin: 0;
+}
+
+#descricao {
+    position: relative;
+    font-size: 15px;
+    top: -27px;
+    
+}
+
+#hr-informacoes {
+    width: 100%;
+    bottom: 50px;
+    position: relative;
+}
+
+#hr-conta {
+    width: 100%;
+    bottom: 29px;
+    position: relative;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    padding-left: 246px;
+    
+}
+
+.informacoes-pessoais {
+    width: 237px;
+}
+
+#email-e-senha {
+    font-size: 15px;
+}
+
+.config-conta {
+    position: relative;
+    width: 237px;
+    bottom: -77px;
+    left: -239px;
+}

@@ -1,0 +1,125 @@
+body{
+    position: fixed;
+}
+
+#meia_lua{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1068px;
+    height: 1130px;
+    left: -360px;
+    top: -85px;
+    border-radius: 50%;
+    border: 2px solid #37BD45;
+    box-shadow: 0px 4px 19px 13px rgba(0, 0, 0, 0.25);
+}
+
+#salafittxt{
+    position: absolute;
+    width: 478px;
+    height: 64px;
+    left: 156px;
+    top: 467px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 117.52%;
+
+    color: #37BD45;
+}
+
+#mascote{
+    position: fixed;
+    left: 79px;
+    top: 272px;
+}
+
+#logo{
+    position: relative;
+    left: 1071px;
+    top: -14px;
+}
+
+#tela_cadastro{
+    position: absolute;
+    width: 500px;
+    height: 729px;
+    left: 1054px;
+    top: 161px;
+    background: #FFFFFF;
+    border: 2px solid #37BD45;
+    box-shadow: 0px 4px 19px 13px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+
+
+#textos {
+    position: absolute;
+    width: 242px;
+    height: 41px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #37BD45;
+}
+
+#barras {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 412px;
+    height: 54px;
+
+    border-radius: 8px;
+    border: 2px solid #37BD45;
+    background: rgba(224, 255, 36, 0.00);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+    font-size: 20px;
+}
+
+#cadastrar {
+    position: relative;
+    box-sizing: border-box;
+    width: 155px;
+    height: 49px;
+    top: 529px;
+    left: 172px;
+    border: 2px solid #37BD45;
+    border-radius: 41px;
+    background-color: #FFFFFF;
+    font-size: 25px;
+    color: #37BD45;
+}
+
+#balao_de_fala{
+    position: relative;
+    top: 321px;
+    left: 737px;
+    width: 281px;
+}
+
+#frase{
+    position: absolute;
+    left: 829px;
+    top: 348px;
+    width: 170px;
+    font-size: 30px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#link{
+    position: relative;
+
+    top: 465px;
+    left: -86px;
+}

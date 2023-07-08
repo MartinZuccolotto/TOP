@@ -1,0 +1,109 @@
+#meia_lua{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1068px;
+    height: 1130px;
+    left: -360px;
+    top: -85px;
+    border-radius: 50%;
+    border: 2px solid #37BD45;
+    box-shadow: 0px 4px 19px 13px rgba(0, 0, 0, 0.25);
+}
+
+#mascote{
+    position: relative;
+    width: 77px;
+    left: 1800px;
+    top: 19px;
+}
+
+#entrega {
+    position: relative;
+    left: 466px;
+    height: 385px;
+    top: 325px;
+}
+
+
+body {
+    position: fixed;
+}
+
+#div_form {
+    left: 1200px;
+    position: relative;
+}
+
+#tela_login {
+    position: fixed;
+    width: 500px;
+    height: 500px;
+    left: 1069px;
+    top: 220px;
+    background: #FFFFFF;
+    border: 2px solid #37BD45;
+    box-shadow: 0px 4px 19px 13px rgba(0, 0, 0, 0.25);
+    border-radius: 102px;
+}
+
+#login_senha {
+    position: relative;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 24px;
+    color: #37BD45;
+}
+
+#barra_login_senha {
+    position: relative;
+    box-sizing: border-box;
+    width: 412px;
+    height: 54px;
+    border: 2px solid #37BD45;
+    border-radius: 41px;
+    font-size: 20px;
+
+}
+
+#salafit {
+    position: absolute;
+    width: 171px;
+    height: 56px;
+    left: 160px;
+    top: 18px;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #37BD45;
+}
+
+#folhas{
+    position: relative;
+}
+
+#logar {
+    position: relative;
+    box-sizing: border-box;
+    width: 111px;
+    height: 49px;
+    top: 149px;
+    left: 198px;
+    border: 2px solid #37BD45;
+    border-radius: 41px;
+    background-color: #FFFFFF;
+    font-size: 25px;
+    color: #37BD45;
+}
+
+#criar_conta {
+    position: relative;
+}
+
+.erro{
+    color: white;
+    background-color: red;
+    display: none;
+}
